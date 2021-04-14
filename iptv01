@@ -79,5 +79,11 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/academika.pe/picture?width=200&height=200" tvg-name="Academika pe",Academika pe
+https://live-ak.vimeocdn.com/exp=1618438098~acl=%2F82d95d06-1ddc-4e7d-803d-e4d0e01f3298%2F%2A~hmac=92e6b4f06b9b6dffee593e5976681198552a6b84de7b8d6cb9a872ba514c729c/82d95d06-1ddc-4e7d-803d-e4d0e01f3298/hls.m3u8
+
 
 
