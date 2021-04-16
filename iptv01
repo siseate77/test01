@@ -7,9 +7,6 @@ https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" tvg-name="Food Network",Food Network
 https://m3u-editor.com/serve/rokumaniatest/256609325
 
