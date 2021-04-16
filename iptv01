@@ -4,8 +4,17 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" tvg-name="Cheddar USA",Cheddar USA EN
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
+https://www.bloomberg.com/media-manifest/streams/qt.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" tvg-name="Food Network",Food Network
 https://m3u-editor.com/serve/rokumaniatest/256609325
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania EN
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c636a8d0-0998-11eb-885d-fb9071586ed4/947413/212334369.png" tvg-name="BBC World",BBC World
 https://m3u-editor.com/serve/rokumaniatest/212334369
@@ -15,6 +24,9 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/skynews/picture?width=200&height=200" tvg-name="Sky News UK",Sky News UK EN
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" tvg-name="ABC Australia",ABC Australia EN
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" tvg-name="ABC News USA",ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -30,9 +42,6 @@ https://www.bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/bloombergbusiness/picture?width=200&height=200" tvg-name="Bloomberg USA",Bloomberg USA EN
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania EN
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" tvg-name="RT News",RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
@@ -70,17 +79,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200" tvg-name="Channel NewsAsia",Channel NewsAsia EN
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" tvg-name="ABC Australia",ABC Australia EN
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/unitednations/picture?width=200&height=200" tvg-name="United Nations TV",United Nations TV EN
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/quicktake/picture?width=200&height=200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 
 
