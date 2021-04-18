@@ -79,7 +79,40 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América" tvg-name="Entertainment Tonight USA",Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" group-title="Int. América" tvg-name="America's Voice USA",America's Voice USA EN
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" group-title="Int. América" tvg-name="BUZZR TV USA",BUZZR TV USA EN
+https://buzzrota-web.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. América" tvg-name="Newsmax TV USA",Newsmax TV USA EN
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Int. América" tvg-name="Panamericana Perú",Panamericana Perú
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Fashion TV",Fashion TV
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200" group-title="Int. Otros" tvg-name="American Horrors Movies",American Horrors Movies EN
+http://170.178.189.70:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Redbull TV",Redbull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
