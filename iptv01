@@ -115,4 +115,7 @@ http://170.178.189.70:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="English" tvg-name="Redbull TV",Redbull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" group-title="English" tvg-name="TRU TV",TRU TV EN
+http://185.134.22.131:8080/Carlos123/Carlos123/699
+
 
