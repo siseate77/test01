@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="English" tvg-name="CNN Internacional",CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,(ES) DISCOVERY CHANNEL HD.LOCAL
+http://hbox.cdnss.me:80/tolgax1x/tolgax1x/4381
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="English" tvg-name="Cheddar USA",Cheddar USA EN
 https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 
